@@ -24,3 +24,16 @@ __cast_size:__ number of Actors appearing in the movie.<br>
 __director:__ Director of the movie.<br>
 __crew_size:__ Size of the film crew (incl. director, excl. actors).
 
+## Here are some analysed screen capture
+1.__Histogram of the numeric data__
+   
+   ![Hist](Project_01_Materials/Project_01_Materials/Hist.PNG)
+
+2. __Top 5 highest revenue movie__
+   
+    ![Hist](Project_01_Materials/Project_01_Materials/Toprevenue.PNG)
+   
+3. __Most common words in movie title__
+   
+    ![Hist](Project_01_Materials/Project_01_Materials/Wordcloud.PNG)
+
